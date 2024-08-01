@@ -1,5 +1,5 @@
 # AI-email-newsletter
-Use AI to create a newletter
+Use AI to create a newsletter
 
 Side project to use AI to create a newsletter, built with TypeScript and React, running on node
 
