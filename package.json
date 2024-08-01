@@ -2,8 +2,6 @@
   "name": "react-email-starter",
   "version": "0.0.30",
   "private": true,
-  "main": "index.js",
-  "type": "module",
   "scripts": {
     "build": "email build",
     "dev": "email dev",
@@ -18,6 +16,7 @@
   },
   "devDependencies": {
     "@types/react": "18.2.33",
-    "@types/react-dom": "18.2.14"
+    "@types/react-dom": "18.2.14",
+    "tsx": "^4.16.5"
   }
 }
