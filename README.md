@@ -5,7 +5,7 @@ Side project to use AI to reply to emails, built with TypeScript and React, runn
 
 To run the "hello world" script to send a simple email:
 
-I'm using https://resend.com, so create a .env file:
+I'm using https://resend.com. So, create a .env file:
 ```
 RESEND_API_KEY=<RESEND_API_KEY>
 ```
