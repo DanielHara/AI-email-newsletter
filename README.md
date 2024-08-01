@@ -20,3 +20,5 @@ You get:
 <img width="810" alt="Screenshot 2024-08-01 at 13 56 21" src="https://github.com/user-attachments/assets/701f8c34-b684-466c-87c3-4b7a795b90c5">
 
 Still in progress...
+
+The goal is eventually to build a service to automatically answer customer queries by email.
