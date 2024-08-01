@@ -2,6 +2,8 @@
   "name": "react-email-starter",
   "version": "0.0.30",
   "private": true,
+  "main": "index.js",
+  "type": "module",
   "scripts": {
     "build": "email build",
     "dev": "email dev",
@@ -9,8 +11,10 @@
   },
   "dependencies": {
     "@react-email/components": "0.0.22",
+    "dotenv": "^16.4.5",
+    "react": "^18.2.0",
     "react-email": "2.1.6",
-    "react": "^18.2.0"
+    "resend": "^3.5.0"
   },
   "devDependencies": {
     "@types/react": "18.2.33",
